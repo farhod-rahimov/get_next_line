@@ -2,7 +2,7 @@
 
 ``get_next_line(int fd, char **line)`` function gets 1 line from the file(``fd``) and saves it in ``line`` 
 
-BUILD ft_printf ``make``
+BUILD get_next_line ``make``
 
 USAGE ``gcc your_files.c get_next_line.c get_next_line_utils.c``
 
